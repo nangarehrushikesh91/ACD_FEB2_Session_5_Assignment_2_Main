@@ -1,0 +1,1 @@
+var data = {name:"Hrushikesh",age:25,dob:"25/10/1991",placeofbirth:"Pune"}
